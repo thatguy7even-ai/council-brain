@@ -1,0 +1,20 @@
+{
+ "schema": "lesson-status/v1",
+ "decided_by": "blink, chain turn 9 (final), 2026-10-18",
+ "basis": "v3 threshold: lessons 43/44 HIT (mse 0.0044/0.0041); lessons 19/25 MISS (mse 0.1379/0.1403)",
+ "lessons": {
+  "19": {
+   "status": "superseded",
+   "superseded_by": 43,
+   "retained_as": "audit-before",
+   "why": "Alpha's value-by-value audit: seat_consensus=0.95 vs record 5/9, record_impact=1.0 unjustified, data_vs_reading=0.2 baseless. 43 carries the same rationale with justified vectors."
+  },
+  "25": {
+   "status": "superseded",
+   "superseded_by": 44,
+   "retained_as": "audit-before",
+   "why": "Same audit. 44 carries the same rationale with justified vectors."
+  }
+ },
+ "rule": "Superseded lessons are NEVER deleted (the audit needs the before). Future training versions (v4+) train on 43/44, not 19/25. Training on both would keep unjustified vectors in the training set."
+}

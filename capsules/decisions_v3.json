@@ -1,0 +1,465 @@
+{
+ "version": "v3",
+ "threshold_hits": "34/45",
+ "per_lesson": [
+  {
+   "lesson": 0,
+   "hit": false,
+   "mse": 0.0998,
+   "fired": [],
+   "missed": [
+    "hold"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 1,
+   "hit": true,
+   "mse": 0.0001,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 2,
+   "hit": false,
+   "mse": 0.1143,
+   "fired": [],
+   "missed": [
+    "mark_break"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 3,
+   "hit": false,
+   "mse": 0.0939,
+   "fired": [],
+   "missed": [
+    "inscribe"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 4,
+   "hit": true,
+   "mse": 0.0027,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 5,
+   "hit": false,
+   "mse": 0.146,
+   "fired": [],
+   "missed": [
+    "publish"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 6,
+   "hit": true,
+   "mse": 0.0005,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 7,
+   "hit": true,
+   "mse": 0.0035,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 8,
+   "hit": true,
+   "mse": 0.007,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 9,
+   "hit": true,
+   "mse": 0.0027,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 10,
+   "hit": true,
+   "mse": 0.0134,
+   "fired": [
+    "inscribe",
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 11,
+   "hit": true,
+   "mse": 0.026,
+   "fired": [
+    "inscribe",
+    "hold"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 12,
+   "hit": true,
+   "mse": 0.023,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 13,
+   "hit": false,
+   "mse": 0.1377,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [
+    "measure_first"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 14,
+   "hit": true,
+   "mse": 0.0019,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 15,
+   "hit": true,
+   "mse": 0.0108,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 16,
+   "hit": true,
+   "mse": 0.0007,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 17,
+   "hit": true,
+   "mse": 0.014,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 18,
+   "hit": true,
+   "mse": 0.0015,
+   "fired": [],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 19,
+   "hit": false,
+   "mse": 0.1379,
+   "fired": [],
+   "missed": [
+    "experiment"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 20,
+   "hit": true,
+   "mse": 0.0113,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 21,
+   "hit": true,
+   "mse": 0.001,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 22,
+   "hit": true,
+   "mse": 0.0015,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 23,
+   "hit": false,
+   "mse": 0.0451,
+   "fired": [],
+   "missed": [
+    "inscribe"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 24,
+   "hit": true,
+   "mse": 0.007,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 25,
+   "hit": false,
+   "mse": 0.1403,
+   "fired": [],
+   "missed": [
+    "experiment"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 26,
+   "hit": false,
+   "mse": 0.0597,
+   "fired": [
+    "inscribe"
+   ],
+   "missed": [
+    "publish"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 27,
+   "hit": false,
+   "mse": 0.1776,
+   "fired": [
+    "hold"
+   ],
+   "missed": [
+    "mark_break"
+   ],
+   "leaked": [
+    "experiment"
+   ]
+  },
+  {
+   "lesson": 28,
+   "hit": true,
+   "mse": 0.0215,
+   "fired": [
+    "inscribe",
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 29,
+   "hit": true,
+   "mse": 0.0226,
+   "fired": [
+    "quarantine"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 30,
+   "hit": false,
+   "mse": 0.1362,
+   "fired": [],
+   "missed": [
+    "measure_first"
+   ],
+   "leaked": []
+  },
+  {
+   "lesson": 31,
+   "hit": true,
+   "mse": 0.0025,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 32,
+   "hit": true,
+   "mse": 0.0005,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 33,
+   "hit": true,
+   "mse": 0.005,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 34,
+   "hit": true,
+   "mse": 0.0046,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 35,
+   "hit": true,
+   "mse": 0.0017,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 36,
+   "hit": true,
+   "mse": 0.0042,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 37,
+   "hit": true,
+   "mse": 0.0035,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 38,
+   "hit": true,
+   "mse": 0.0028,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 39,
+   "hit": true,
+   "mse": 0.0082,
+   "fired": [
+    "verify"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 40,
+   "hit": true,
+   "mse": 0.0024,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 41,
+   "hit": true,
+   "mse": 0.0108,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 42,
+   "hit": true,
+   "mse": 0.0019,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 43,
+   "hit": true,
+   "mse": 0.0044,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  },
+  {
+   "lesson": 44,
+   "hit": true,
+   "mse": 0.0041,
+   "fired": [
+    "experiment"
+   ],
+   "missed": [],
+   "leaked": []
+  }
+ ]
+}

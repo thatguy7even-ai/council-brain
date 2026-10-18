@@ -1,0 +1,161 @@
+{
+ "set_id": "council-brain-v1",
+ "manifest": {
+  "topology": {
+   "hash": "580e275c78f85e4d6025615b24859c95ad2c84340b2c7e25bcc91e7198350010",
+   "png_bytes": 3322,
+   "payload_bytes": 8296,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/topology.png"
+  },
+  "weights": {
+   "hash": "214b0b7a821e03952fd9eb908ae306e8ca573c6c287a916447ad5613988a6f35",
+   "png_bytes": 3782,
+   "payload_bytes": 13351,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/weights.png"
+  },
+  "lesson_00": {
+   "hash": "b89354b8208c206874fa9bd473d21dfdf2549a06811e5c952ba0bba60580de4d",
+   "png_bytes": 1129,
+   "payload_bytes": 351,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_00.png"
+  },
+  "lesson_01": {
+   "hash": "f52438ae93595bad0a22b6e4d732c5b755d51388a2f9715222a3a8a3809d4b09",
+   "png_bytes": 1183,
+   "payload_bytes": 399,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_01.png"
+  },
+  "lesson_02": {
+   "hash": "e81809f602b8682331e415e882ebd72044003bd50a16b1afd7807fc306da2bfb",
+   "png_bytes": 1128,
+   "payload_bytes": 337,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_02.png"
+  },
+  "lesson_03": {
+   "hash": "e4f2c38be64104051868b7929f1daf286475de62b0e35610f9703a6c0fc766e3",
+   "png_bytes": 1171,
+   "payload_bytes": 389,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_03.png"
+  },
+  "lesson_04": {
+   "hash": "ad70515cb60140daa016dec5a000b1a5a1ed4ab5e67e53b73689fa5e1b95273f",
+   "png_bytes": 1129,
+   "payload_bytes": 349,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_04.png"
+  },
+  "lesson_05": {
+   "hash": "f48afc5bbef256881c09e8ab92d3602ec3ad2ef72fc104918cfaeb8c249bd754",
+   "png_bytes": 1090,
+   "payload_bytes": 305,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_05.png"
+  },
+  "lesson_06": {
+   "hash": "563e9f26c713c223d04d071e6d8593db533df777aeee4367df8e2770894cb7d6",
+   "png_bytes": 1162,
+   "payload_bytes": 400,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_06.png"
+  },
+  "lesson_07": {
+   "hash": "3c4922051e0b62de44130b0dd4180a6ce5a0c494e3e1ebc5051c75eaa69e92a1",
+   "png_bytes": 1123,
+   "payload_bytes": 352,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_07.png"
+  },
+  "lesson_08": {
+   "hash": "11490542692e1249e19cc1956147780665d7ea8cfee154d885eb0a9c4075da6b",
+   "png_bytes": 1148,
+   "payload_bytes": 377,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_08.png"
+  },
+  "lesson_09": {
+   "hash": "184369bffd20f73517570ef3741ed21b96a07260e990ea0b7f6abc33ffb1d595",
+   "png_bytes": 1118,
+   "payload_bytes": 340,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_09.png"
+  },
+  "lesson_10": {
+   "hash": "83dd9a3e3297a663ce4a6a8717502f75d230d1d48d252b4ee3c635ba4f981a64",
+   "png_bytes": 1129,
+   "payload_bytes": 344,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_10.png"
+  },
+  "lesson_11": {
+   "hash": "a83d5df7b4c4a88a3b4e02a743c36de76ad73efb5279f6ad168a57e0368e51f1",
+   "png_bytes": 1130,
+   "payload_bytes": 337,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_11.png"
+  },
+  "lesson_12": {
+   "hash": "b09a1e29b59d4dad4dcdd674a77c77455e2103050cc6682ab1c24ef772b0560e",
+   "png_bytes": 1134,
+   "payload_bytes": 343,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_12.png"
+  },
+  "lesson_13": {
+   "hash": "cc4a729f772ca481ada9805f9056c547b203e831d59e75d864190bb2b9948cfd",
+   "png_bytes": 1122,
+   "payload_bytes": 333,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_13.png"
+  },
+  "lesson_14": {
+   "hash": "43693837d8a07ff8b71ab6e778bdc1f0cff71f900f9143a2e82b45e12a8c8c5d",
+   "png_bytes": 1142,
+   "payload_bytes": 375,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_14.png"
+  },
+  "lesson_15": {
+   "hash": "c2da68b08d6281c0c4596fb3a40a1be6c8db94e4c21d6942443afffb101e0dd9",
+   "png_bytes": 1098,
+   "payload_bytes": 330,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_15.png"
+  },
+  "lesson_16": {
+   "hash": "5ac68a838717617c44a124df14ea500af07c872869b534955ad1160bf067a8c6",
+   "png_bytes": 1108,
+   "payload_bytes": 330,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_16.png"
+  },
+  "lesson_17": {
+   "hash": "9a6b0f1e8461c3684fe9678a1eacf52ef7415936eaa7a24d7fb34ebf99b9fd43",
+   "png_bytes": 1133,
+   "payload_bytes": 365,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_17.png"
+  },
+  "lesson_18": {
+   "hash": "8ae002747dc807d53a99e061547f3b7fe77133671f042c8bdf4ea696c08128d0",
+   "png_bytes": 1149,
+   "payload_bytes": 358,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_18.png"
+  },
+  "lesson_19": {
+   "hash": "89da5d977aae6a2009ca75c7065b0af78a1f0f15c054072254f2b8d2217663a4",
+   "png_bytes": 1186,
+   "payload_bytes": 394,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_19.png"
+  },
+  "lesson_20": {
+   "hash": "3be22b55f400b72c732921f0b90e64055a39ce6ba8b9bb18cb3c955fafa66f99",
+   "png_bytes": 1129,
+   "payload_bytes": 353,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_20.png"
+  },
+  "lesson_21": {
+   "hash": "a91b809fbf24a389a25dc853a82f75771860edab503191d7230dc432b5744c84",
+   "png_bytes": 1158,
+   "payload_bytes": 394,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_21.png"
+  },
+  "lesson_22": {
+   "hash": "b23d88cb2cea152e6b1afe55b09c0090c297eec021ce389c95889217dd9e5a95",
+   "png_bytes": 1140,
+   "payload_bytes": 353,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_22.png"
+  },
+  "lesson_23": {
+   "hash": "cab2dda2b6bed4d097e0b8381a2e0fbf39bb0c8f3ccd6394c8b6050e5d90e60a",
+   "png_bytes": 1139,
+   "payload_bytes": 372,
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_23.png"
+  }
+ }
+}

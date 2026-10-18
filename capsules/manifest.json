@@ -1,0 +1,318 @@
+{
+ "set_id": "council-brain-v1",
+ "manifest": {
+  "topology": {
+   "hash": "580e275c78f85e4d6025615b24859c95ad2c84340b2c7e25bcc91e7198350010",
+   "path": "capsules/topology.png",
+   "png_bytes": 3322,
+   "payload_bytes": 8296
+  },
+  "weights": {
+   "hash": "214b0b7a821e03952fd9eb908ae306e8ca573c6c287a916447ad5613988a6f35",
+   "path": "capsules/weights.png",
+   "png_bytes": 3782,
+   "payload_bytes": 13351
+  },
+  "weights_v1": {
+   "hash": "390f3a1ad63aa74a3f1c762bdb9c5d75ab75b6276643fbc4f8d99f9bdeded86c",
+   "path": "capsules/weights_v1.png",
+   "png_bytes": 6418,
+   "payload_bytes": 16676
+  },
+  "lesson_00": {
+   "hash": "b89354b8208c206874fa9bd473d21dfdf2549a06811e5c952ba0bba60580de4d",
+   "path": "capsules/lesson_00.png",
+   "png_bytes": 1129,
+   "payload_bytes": 351
+  },
+  "lesson_01": {
+   "hash": "f52438ae93595bad0a22b6e4d732c5b755d51388a2f9715222a3a8a3809d4b09",
+   "path": "capsules/lesson_01.png",
+   "png_bytes": 1183,
+   "payload_bytes": 399
+  },
+  "lesson_02": {
+   "hash": "e81809f602b8682331e415e882ebd72044003bd50a16b1afd7807fc306da2bfb",
+   "path": "capsules/lesson_02.png",
+   "png_bytes": 1128,
+   "payload_bytes": 337
+  },
+  "lesson_03": {
+   "hash": "e4f2c38be64104051868b7929f1daf286475de62b0e35610f9703a6c0fc766e3",
+   "path": "capsules/lesson_03.png",
+   "png_bytes": 1171,
+   "payload_bytes": 389
+  },
+  "lesson_04": {
+   "hash": "ad70515cb60140daa016dec5a000b1a5a1ed4ab5e67e53b73689fa5e1b95273f",
+   "path": "capsules/lesson_04.png",
+   "png_bytes": 1129,
+   "payload_bytes": 349
+  },
+  "lesson_05": {
+   "hash": "f48afc5bbef256881c09e8ab92d3602ec3ad2ef72fc104918cfaeb8c249bd754",
+   "path": "capsules/lesson_05.png",
+   "png_bytes": 1090,
+   "payload_bytes": 305
+  },
+  "lesson_06": {
+   "hash": "563e9f26c713c223d04d071e6d8593db533df777aeee4367df8e2770894cb7d6",
+   "path": "capsules/lesson_06.png",
+   "png_bytes": 1162,
+   "payload_bytes": 400
+  },
+  "lesson_07": {
+   "hash": "3c4922051e0b62de44130b0dd4180a6ce5a0c494e3e1ebc5051c75eaa69e92a1",
+   "path": "capsules/lesson_07.png",
+   "png_bytes": 1123,
+   "payload_bytes": 352
+  },
+  "lesson_08": {
+   "hash": "11490542692e1249e19cc1956147780665d7ea8cfee154d885eb0a9c4075da6b",
+   "path": "capsules/lesson_08.png",
+   "png_bytes": 1148,
+   "payload_bytes": 377
+  },
+  "lesson_09": {
+   "hash": "184369bffd20f73517570ef3741ed21b96a07260e990ea0b7f6abc33ffb1d595",
+   "path": "capsules/lesson_09.png",
+   "png_bytes": 1118,
+   "payload_bytes": 340
+  },
+  "lesson_10": {
+   "hash": "83dd9a3e3297a663ce4a6a8717502f75d230d1d48d252b4ee3c635ba4f981a64",
+   "path": "capsules/lesson_10.png",
+   "png_bytes": 1129,
+   "payload_bytes": 344
+  },
+  "lesson_11": {
+   "hash": "a83d5df7b4c4a88a3b4e02a743c36de76ad73efb5279f6ad168a57e0368e51f1",
+   "path": "capsules/lesson_11.png",
+   "png_bytes": 1130,
+   "payload_bytes": 337
+  },
+  "lesson_12": {
+   "hash": "b09a1e29b59d4dad4dcdd674a77c77455e2103050cc6682ab1c24ef772b0560e",
+   "path": "capsules/lesson_12.png",
+   "png_bytes": 1134,
+   "payload_bytes": 343
+  },
+  "lesson_13": {
+   "hash": "cc4a729f772ca481ada9805f9056c547b203e831d59e75d864190bb2b9948cfd",
+   "path": "capsules/lesson_13.png",
+   "png_bytes": 1122,
+   "payload_bytes": 333
+  },
+  "lesson_14": {
+   "hash": "43693837d8a07ff8b71ab6e778bdc1f0cff71f900f9143a2e82b45e12a8c8c5d",
+   "path": "capsules/lesson_14.png",
+   "png_bytes": 1142,
+   "payload_bytes": 375
+  },
+  "lesson_15": {
+   "hash": "c2da68b08d6281c0c4596fb3a40a1be6c8db94e4c21d6942443afffb101e0dd9",
+   "path": "capsules/lesson_15.png",
+   "png_bytes": 1098,
+   "payload_bytes": 330
+  },
+  "lesson_16": {
+   "hash": "5ac68a838717617c44a124df14ea500af07c872869b534955ad1160bf067a8c6",
+   "path": "capsules/lesson_16.png",
+   "png_bytes": 1108,
+   "payload_bytes": 330
+  },
+  "lesson_17": {
+   "hash": "9a6b0f1e8461c3684fe9678a1eacf52ef7415936eaa7a24d7fb34ebf99b9fd43",
+   "path": "capsules/lesson_17.png",
+   "png_bytes": 1133,
+   "payload_bytes": 365
+  },
+  "lesson_18": {
+   "hash": "8ae002747dc807d53a99e061547f3b7fe77133671f042c8bdf4ea696c08128d0",
+   "path": "capsules/lesson_18.png",
+   "png_bytes": 1149,
+   "payload_bytes": 358
+  },
+  "lesson_19": {
+   "hash": "89da5d977aae6a2009ca75c7065b0af78a1f0f15c054072254f2b8d2217663a4",
+   "path": "capsules/lesson_19.png",
+   "png_bytes": 1186,
+   "payload_bytes": 394
+  },
+  "lesson_20": {
+   "hash": "3be22b55f400b72c732921f0b90e64055a39ce6ba8b9bb18cb3c955fafa66f99",
+   "path": "capsules/lesson_20.png",
+   "png_bytes": 1129,
+   "payload_bytes": 353
+  },
+  "lesson_21": {
+   "hash": "a91b809fbf24a389a25dc853a82f75771860edab503191d7230dc432b5744c84",
+   "path": "capsules/lesson_21.png",
+   "png_bytes": 1158,
+   "payload_bytes": 394
+  },
+  "lesson_22": {
+   "hash": "b23d88cb2cea152e6b1afe55b09c0090c297eec021ce389c95889217dd9e5a95",
+   "path": "capsules/lesson_22.png",
+   "png_bytes": 1140,
+   "payload_bytes": 353
+  },
+  "lesson_23": {
+   "hash": "cab2dda2b6bed4d097e0b8381a2e0fbf39bb0c8f3ccd6394c8b6050e5d90e60a",
+   "path": "capsules/lesson_23.png",
+   "png_bytes": 1139,
+   "payload_bytes": 372
+  },
+  "lesson_24": {
+   "hash": "8a74b8c0dee42d0c75a04ea2266d0ef18ffe67471b5e1f5d7b95fd5be8bda606",
+   "path": "capsules/lesson_24.png",
+   "png_bytes": 1137,
+   "payload_bytes": 355
+  },
+  "lesson_25": {
+   "hash": "3cec87f23d59c713db62d2f0963c9570119e3035ffe6e10d550fb95c215e5079",
+   "path": "capsules/lesson_25.png",
+   "png_bytes": 1136,
+   "payload_bytes": 355
+  },
+  "lesson_26": {
+   "hash": "e0c560b2f27d3f4c385da0a9d8f72599acedc3c4789160bf7a7ceaa4368b6b5d",
+   "path": "capsules/lesson_26.png",
+   "png_bytes": 1155,
+   "payload_bytes": 361
+  },
+  "lesson_27": {
+   "hash": "1936d001bdd368620cdb7f4fdf376c74faf54e9ef13183bea8fb407b685c235d",
+   "path": "capsules/lesson_27.png",
+   "png_bytes": 1234,
+   "payload_bytes": 416
+  },
+  "lesson_28": {
+   "hash": "31aae71872ffe12679fef97951809605c61b8764d074f9a5527ccb30257e9bcb",
+   "path": "capsules/lesson_28.png",
+   "png_bytes": 1230,
+   "payload_bytes": 446
+  },
+  "lesson_29": {
+   "hash": "29cf94c93543f372e33fef0eb69399d88fd204fe54fc968a0557be9086a6205c",
+   "path": "capsules/lesson_29.png",
+   "png_bytes": 1123,
+   "payload_bytes": 346
+  },
+  "lesson_30": {
+   "hash": "465e02106a0b407c7d1a045066b813cb10678e76c15f724e6763986f9c41150f",
+   "path": "capsules/lesson_30.png",
+   "png_bytes": 1381,
+   "payload_bytes": 473
+  },
+  "lesson_31": {
+   "hash": "276f29651b39cc44661b090760bab0782ef9e2e66da72a3ae3b5a6ad853a7b34",
+   "path": "capsules/lesson_31.png",
+   "png_bytes": 1384,
+   "payload_bytes": 499
+  },
+  "lesson_32": {
+   "hash": "909d560c79f41cb0cce7469b36a1e607e45bfc30f7c7776c0763462105c4ed7a",
+   "path": "capsules/lesson_32.png",
+   "png_bytes": 1495,
+   "payload_bytes": 609
+  },
+  "topology_v2": {
+   "hash": "bd3ca7205fde115c0be5c08ad6544001ce0f8f94656afa7f03a74b0207f7c004",
+   "path": "capsules/topology_v2.png",
+   "png_bytes": 3912,
+   "payload_bytes": 8954
+  },
+  "weights_v2": {
+   "hash": "56f260b13f34d16e5d35c59955a31880a65be58b6bbfaa9ad5fb69c3f82ae454",
+   "path": "capsules/weights_v2.png",
+   "png_bytes": 6408,
+   "payload_bytes": 17185
+  },
+  "lesson_33": {
+   "hash": "6dd3262349a345bfcd1989b717c7f59958f5374ed4784f77018773bbe06a1570",
+   "path": "capsules/lesson_33.png",
+   "png_bytes": 1213,
+   "payload_bytes": 456
+  },
+  "lesson_34": {
+   "hash": "a33db045b7830daa33ec877d295b222314f45f111bd929e76ecb26384095fde6",
+   "path": "capsules/lesson_34.png",
+   "png_bytes": 1198,
+   "payload_bytes": 401
+  },
+  "lesson_35": {
+   "hash": "cbe6216a36779298c8bed7ad2b5441d57acb6d28b6dd66a5ac5abaed1366b1de",
+   "path": "capsules/lesson_35.png",
+   "png_bytes": 1166,
+   "payload_bytes": 408
+  },
+  "lesson_36": {
+   "hash": "dc8035a9971f552dbb6097c5cd82519fab1725fce742d17b20df527ffc35b67c",
+   "path": "capsules/lesson_36.png",
+   "png_bytes": 1194,
+   "payload_bytes": 388
+  },
+  "lesson_37": {
+   "hash": "06c2bba0c0f7b32a3255f1b3a451228d99bb84aae185394b0acd4337313f4f49",
+   "path": "capsules/lesson_37.png",
+   "png_bytes": 1117,
+   "payload_bytes": 329
+  },
+  "lesson_38": {
+   "hash": "4fe5e1c815f4f110a740b3bfd27c9e094920990fdae2b76f171882246ebc4fe5",
+   "path": "capsules/lesson_38.png",
+   "png_bytes": 1143,
+   "payload_bytes": 356
+  },
+  "lesson_39": {
+   "hash": "9bd4c5ed8a88578fe764dddfbe9468177c008af8fe608945e00c5d4dedbe1d6c",
+   "path": "capsules/lesson_39.png",
+   "png_bytes": 1141,
+   "payload_bytes": 352
+  },
+  "decisions_v2": {
+   "hash": "a24130f8de1db368594a749e18f432d19d85343dfb416674a33f192816163252",
+   "path": "capsules/decisions_v2.png",
+   "png_bytes": 1448,
+   "payload_bytes": 2895
+  },
+  "lesson_40": {
+   "hash": "f8b7d42c65f81a43d20c46312995356a46e501c5aeb715dbbb55aab22e94e50b",
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_40.png",
+   "png_bytes": 1259
+  },
+  "lesson_41": {
+   "hash": "3cf6e61c8ec361d763e4e912985adaba81d972f075b7baa504cd2c720d4c1d71",
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_41.png",
+   "png_bytes": 1293
+  },
+  "lesson_42": {
+   "hash": "7b95ec52b222dcccd2a0404315cae5752dcd7dda23945afe533a31193f59b2a3",
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_42.png",
+   "png_bytes": 1302
+  },
+  "lesson_43": {
+   "hash": "25459b8af41eb8bff7b5e3ac8040db7be4befe9ca0407bbf8d35a60c20b993f6",
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_43.png",
+   "png_bytes": 1672
+  },
+  "lesson_44": {
+   "hash": "1bafb59ecc984c8227a5ab8cbc7ced57eb41b04b3cc729c7729f1f4a62091a1c",
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/lesson_44.png",
+   "png_bytes": 1471
+  },
+  "weights_v3": {
+   "hash": "5fb15910e4957cd065fec57d23ab570790a9e9aae5666e5fbfd2cda1f1889ce1",
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/weights_v3.png",
+   "png_bytes": 6476
+  },
+  "decisions_v3": {
+   "path": "/home/hatch/workspace/council-brain-capsule/capsules/decisions_v3.json"
+  },
+  "lesson_status": {
+   "path": "capsules/lesson_status.json",
+   "kind": "status-record"
+  }
+ }
+}
