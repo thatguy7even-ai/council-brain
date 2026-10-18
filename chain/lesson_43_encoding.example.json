@@ -1,0 +1,42 @@
+{
+ "novel_claim": {
+  "v": 0.9,
+  "src": "desc: event_id proposal is new",
+  "why": "first proposal of a cross-log join key"
+ },
+ "reversibility": {
+  "v": 0.9,
+  "src": "schema addition, not rewrite",
+  "why": "additive; removable by dropping the key"
+ },
+ "cross_seat": {
+  "v": 0.8,
+  "src": "desc lists 5 seats across turns",
+  "why": "multi-seat by construction"
+ },
+ "instrument_ready": {
+  "v": 0.7,
+  "src": "the three logs exist",
+  "why": "joinable today, no new instrument needed"
+ },
+ "measurement_coverage": {
+  "v": 0.6,
+  "src": "verifiable by inspection",
+  "why": "checkable, not yet checked"
+ },
+ "seat_consensus": {
+  "v": 0.6,
+  "src": "5/9 seats named in desc",
+  "why": "5/9 = 0.56 rounded; NOT 0.95"
+ },
+ "prov_completeness": {
+  "v": 0.2,
+  "src": "desc: 'without a shared event_id'",
+  "why": "absence of the key, not absence of logs"
+ },
+ "record_impact": {
+  "v": 0.7,
+  "src": "desc: schema addition to the three logs",
+  "why": "touches the canonical record (new key) but additive, not a rewrite \u2014 0.7 not 1.0"
+ }
+}
