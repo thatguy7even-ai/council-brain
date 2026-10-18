@@ -1,0 +1,22 @@
+{
+ "round_trip": {
+  "pass": true,
+  "capsules": 26,
+  "png_bytes": 34382,
+  "json_bytes": 41019,
+  "note": "bit-identical decisions across all 24 lessons"
+ },
+ "tamper": {
+  "pass": true,
+  "note": "tampered lesson capsule rejected (OSError)"
+ },
+ "expansion": {
+  "pass": true,
+  "note": "appended 2 lesson capsules; original 24 decisions unchanged"
+ },
+ "weights": {
+  "pass": true,
+  "note": "trained weights via capsule -> fresh brain: decisions identical (24/24 match)"
+ },
+ "all_pass": true
+}

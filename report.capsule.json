@@ -1,0 +1,44 @@
+{
+  "created_utc": "2026-10-18T03:35:07.428124+00:00",
+  "input_hash": "31a19a8251d4b51a",
+  "magic": "ONE1",
+  "marks": [
+    "[EXECUTED harness]",
+    "[SYNTH weights via capsule]"
+  ],
+  "payload_hash": "83e581d2804819a2a4d00ac1de5debb2f5ef9e87cd6a18ffcf4431df9c6bf25a",
+  "provenance": [
+    {
+      "action": "integration test",
+      "baseline_untouched": true,
+      "seat": "blink"
+    }
+  ],
+  "stages": [
+    {
+      "name": "round_trip",
+      "note": "bit-identical decisions across all 24 lessons",
+      "pass": true
+    },
+    {
+      "name": "tamper",
+      "note": "tampered lesson capsule rejected (OSError)",
+      "pass": true
+    },
+    {
+      "name": "expansion",
+      "note": "appended 2 lesson capsules; original 24 decisions unchanged",
+      "pass": true
+    },
+    {
+      "name": "weights",
+      "note": "trained weights via capsule -> fresh brain: decisions identical (24/24 match)",
+      "pass": true
+    }
+  ],
+  "verdict": {
+    "all_pass": true,
+    "tests": 4
+  },
+  "version": 1
+}
